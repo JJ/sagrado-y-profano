@@ -1,0 +1,12 @@
+---
+title: "Reseña de "Lo sagrado y lo profano" de Mircea Eliade"
+author: "JJ Merelo"
+date: "`r Sys.Date()`"
+output: pdf_document
+abstract: |
+  "Lo sagrado y lo profano" es un libro interesante por las claves que aporta a la interpretación de la obra artística con motivo o origen religioso. La visión del mundo a través de la experiencia humana de lo sagrado permite entender mejor el significado de elementos arquitectónicos, pictóricos y escultóricos desde el inicil de las civilizaciones
+bibliography: biblio.bib
+---
+
+
+## Bibliografía
