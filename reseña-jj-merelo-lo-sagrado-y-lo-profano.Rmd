@@ -1,12 +1,32 @@
 ---
-title: "Reseña de "Lo sagrado y lo profano" de Mircea Eliade"
-author: "JJ Merelo"
+title: "Reseña de *Lo sagrado y lo profano* de Mircea Eliade"
+author: "JJ Merelo, `jjmerelo@correo.ugr.es`"
 date: "`r Sys.Date()`"
-output: pdf_document
+output:
+  pdf_document: default
 abstract: |
-  "Lo sagrado y lo profano" es un libro interesante por las claves que aporta a la interpretación de la obra artística con motivo o origen religioso. La visión del mundo a través de la experiencia humana de lo sagrado permite entender mejor el significado de elementos arquitectónicos, pictóricos y escultóricos desde el inicil de las civilizaciones
+  "Lo sagrado y lo profano" es un libro interesante por las claves que aporta a la interpretación de la obra artística con motivo o origen religioso. La visión   del mundo a través de la experiencia humana de lo sagrado permite entender mejor el significado de elementos arquitectónicos, pictóricos y escultóricos desde   el inicil de las civilizaciones
 bibliography: biblio.bib
 ---
 
+## Edición
+
+"Lo sagrado y lo profano", traducido por Luis Gil Fernández. Colección Punto Omega. Guadarrama, Madrid, 1967.
+
+## Resumen
+
+En este libro, editado en 1956  en alemán por primera vez, Mircea Eliade introduce una serie de conceptos relacionados con la experiencia religiosa extraidos de sus estudios de las religiones y textos sagrados de la Antigüedad. La obra se divide en varias partes:
+
+* Una introducción, donde habla de la manifestación de "lo sagrado" e introduce una serie de términos relacionados con la misma.
+* Un primer capítulo dedicado al *espacio* sagrado.
+* Un segudo capítulo dedicado al *tiempo* sagrado.
+* Un tercer capítulo en el que analiza la la experiencia religiosa en la relación con la Naturaleza.
+* Finalmente, un cuarto capítulo donde habla cómo la existencia humana se puede santificar, es decir, formar parte de lo sagrado.
+
+La introducción establece las pautas fundamentales del libro, sentando las bases de lo que se considera "sagrado" en oposición a lo que no tiene ese carácter, llamado en general profano.
+
+> La manifestación de lo sagrado fundamenta ontológicamente el mundo (p. 4)
+
+Esta manifestación de lo sagrado, sentida individualmente como una experiencia de lo mismo, se denomina *hierofanía*, y Eliade afirma que es lo que le proporciona al mundo su entidad, su ser. La experiencia de lo sagrado, por tanto, le da sentido al mundo. En la descripción de esta experiencia menciona *Das Heilige*, de Rudolf Otto [@otto1926das], y cómo analiza el mismo las diferentes formas que puede adoptar esta experiencia religiosa.
 
 ## Bibliografía
