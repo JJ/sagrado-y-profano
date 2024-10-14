@@ -3,9 +3,10 @@ title: "Reseña de *Lo sagrado y lo profano* de Mircea Eliade"
 author: "JJ Merelo, `jjmerelo@correo.ugr.es`"
 date: "`r Sys.Date()`"
 output:
-  pdf_document: default
+  pdf_document:
+    extra_dependencies: ["xparse"]
 abstract: |
-  "Lo sagrado y lo profano" es un libro interesante por las claves que aporta a la interpretación de la obra artística con motivo o origen religioso. La visión   del mundo a través de la experiencia humana de lo sagrado permite entender mejor el significado de elementos arquitectónicos, pictóricos y escultóricos desde   el inicil de las civilizaciones
+  "Lo sagrado y lo profano" es un libro interesante por las claves que aporta a la interpretación de la obra artística con motivo o origen religioso. La visión   del mundo a través de la experiencia humana de lo sagrado permite entender mejor el significado de elementos arquitectónicos, pictóricos y escultóricos desde   el inicio de las civilizaciones
 bibliography: biblio.bib
 ---
 
@@ -15,7 +16,7 @@ bibliography: biblio.bib
 
 ## Resumen
 
-En este libro, editado en 1956  en alemán por primera vez, Mircea Eliade introduce una serie de conceptos relacionados con la experiencia religiosa extraidos de sus estudios de las religiones y textos sagrados de la Antigüedad. La obra se divide en varias partes:
+En este libro, editado en 1956 en alemán por primera vez, Mircea Eliade introduce una serie de conceptos relacionados con la experiencia religiosa extraidos de sus estudios de las religiones y textos sagrados de la Antigüedad. La obra se divide en varias partes:
 
 * Una introducción, donde habla de la manifestación de "lo sagrado" e introduce una serie de términos relacionados con la misma.
 * Un primer capítulo dedicado al *espacio* sagrado.
