@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output: pdf_document
 bibliography: biblio.bib
 abstract: |
-  "Lo sagrado y lo profano" aporta una serie de claves a la interpretación de la obra artística con motivo o origen religioso, pero también a muchas obras arquitectónicas y obras visuales figurativas. La visión del mundo a través de la experiencia humana de lo sagrado permite entender mejor el significado de elementos arquitectónicos, pictóricos y escultóricos desde   el inicio de las civilizaciones
+  "Lo sagrado y lo profano" aporta una serie de claves a la interpretación de la obra artística con motivo u origen religioso, pero también a muchas obras arquitectónicas y obras visuales figurativas. La visión del mundo a través de la experiencia humana de lo sagrado permite entender mejor el significado de elementos arquitectónicos, pictóricos y escultóricos desde el inicio de las civilizaciones
 ---
 
 ## Edición
