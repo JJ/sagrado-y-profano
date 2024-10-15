@@ -311,3 +311,9 @@ TSWLatexianTemp*
 
 # Rstudio
 *.Rproj
+.Rhistory
+
+# ficheros generados
+*.html
+*.tex
+*.pdf

@@ -2,19 +2,15 @@
 title: "Reseña de *Lo sagrado y lo profano* de Mircea Eliade"
 author: "JJ Merelo, `jjmerelo@correo.ugr.es`"
 date: "`r Sys.Date()`"
-output:
-  html_document:
-    df_print: paged
-  pdf_document:
-    extra_dependencies: xparse
-abstract: |
-  "Lo sagrado y lo profano" es un libro interesante por las claves que aporta a la interpretación de la obra artística con motivo o origen religioso. La visión   del mundo a través de la experiencia humana de lo sagrado permite entender mejor el significado de elementos arquitectónicos, pictóricos y escultóricos desde   el inicio de las civilizaciones
+output: pdf_document
 bibliography: biblio.bib
+abstract: |
+  "Lo sagrado y lo profano" aporta una serie de claves a la interpretación de la obra artística con motivo o origen religioso, pero también a muchas obras arquitectónicas y obras visuales figurativas. La visión del mundo a través de la experiencia humana de lo sagrado permite entender mejor el significado de elementos arquitectónicos, pictóricos y escultóricos desde   el inicio de las civilizaciones
 ---
 
 ## Edición
 
-"Lo sagrado y lo profano", traducido por Luis Gil Fernández. Colección Punto Omega. Guadarrama, Madrid, 1967.
+"Lo sagrado y lo profano", de Mircea Eliade, traducido por Luis Gil Fernández. Colección Punto Omega. Guadarrama, Madrid, 1967.
 
 ## Resumen
 
@@ -34,6 +30,6 @@ Esta manifestación de lo sagrado, sentida individualmente como una experiencia 
 
 Sin embargo, se afirma que, aunque no haya palabras para definirlo por ser *sui generis*, algunos aspectos de la experiencia sagrada sí se pueden definir. Retomando los "momentos" de "lo sagrado" de Otto, lo sagrado equivale al poder y por tanto, no sólo a la realidad por antonomasia, sino incluso al origen de la misma.
 
-En el primer capítulo comienza a extender este concepto al espacio. En la introducción, el espacio es sagrado si en él se experimentan hierofanías: una colina, la sombra de un árbol, un abrigo de una montaña o una cueva. Sin embargo, en este capítulo Eliade comienza a introducir al hombre como creador de espacios sagrados y por tanto constructor de zonas que son capaces de proporcionar esa hierofanía o experiencia de lo sagrado.
+En el primer capítulo comienza a extender este concepto al espacio. En la introducción, el espacio es sagrado si en él se experimentan hierofanías: una colina, la sombra de un árbol, un abrigo de una montaña o una cueva. Sin embargo, en este capítulo Eliade comienza a introducir al hombre como creador de espacios sagrados y por tanto constructor de ambientes que son capaces de proporcionar esa hierofanía o experiencia de lo sagrado.
 
 ## Bibliografía
