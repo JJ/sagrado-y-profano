@@ -3,8 +3,10 @@ title: "Reseña de *Lo sagrado y lo profano* de Mircea Eliade"
 author: "JJ Merelo, `jjmerelo@correo.ugr.es`"
 date: "`r Sys.Date()`"
 output:
+  html_document:
+    df_print: paged
   pdf_document:
-    extra_dependencies: ["xparse"]
+    extra_dependencies: xparse
 abstract: |
   "Lo sagrado y lo profano" es un libro interesante por las claves que aporta a la interpretación de la obra artística con motivo o origen religioso. La visión   del mundo a través de la experiencia humana de lo sagrado permite entender mejor el significado de elementos arquitectónicos, pictóricos y escultóricos desde   el inicio de las civilizaciones
 bibliography: biblio.bib
@@ -28,6 +30,10 @@ La introducción establece las pautas fundamentales del libro, sentando las base
 
 > La manifestación de lo sagrado fundamenta ontológicamente el mundo (p. 4)
 
-Esta manifestación de lo sagrado, sentida individualmente como una experiencia de lo mismo, se denomina *hierofanía*, y Eliade afirma que es lo que le proporciona al mundo su entidad, su ser. La experiencia de lo sagrado, por tanto, le da sentido al mundo. En la descripción de esta experiencia menciona *Das Heilige*, de Rudolf Otto [@otto1926das], y cómo analiza el mismo las diferentes formas que puede adoptar esta experiencia religiosa.
+Esta manifestación de lo sagrado, sentida individualmente como una experiencia de lo mismo, se denomina *hierofanía*, y Eliade afirma que es lo que le proporciona al mundo su entidad, su ser. La experiencia de lo sagrado, por tanto, le da sentido al mundo. En la descripción de esta experiencia menciona *Das Heilige*, de Rudolf Otto [@otto1926das], y cómo analiza el mismo las diferentes fases o "momentos" que puede adoptar esta experiencia religiosa, dentro de una experiencia que se define como *numinosa* e "irracional"; Mircea Eliade toma esa definición y la amplía, hablando de una experiencia *ganz andere* (en alemán, "todo otro"), es decir, totalmente diferente a la experiencia normal de la realidad, definible con palabras, y por lo tanto *inefable*. Se opone, por tanto, a "lo profano", aquello que forma parte de la experiencia sensorial y que por tanto hay palabras para definirlo.
+
+Sin embargo, se afirma que, aunque no haya palabras para definirlo por ser *sui generis*, algunos aspectos de la experiencia sagrada sí se pueden definir. Retomando los "momentos" de "lo sagrado" de Otto, lo sagrado equivale al poder y por tanto, no sólo a la realidad por antonomasia, sino incluso al origen de la misma.
+
+En el primer capítulo comienza a extender este concepto al espacio. En la introducción, el espacio es sagrado si en él se experimentan hierofanías: una colina, la sombra de un árbol, un abrigo de una montaña o una cueva. Sin embargo, en este capítulo Eliade comienza a introducir al hombre como creador de espacios sagrados y por tanto constructor de zonas que son capaces de proporcionar esa hierofanía o experiencia de lo sagrado.
 
 ## Bibliografía
