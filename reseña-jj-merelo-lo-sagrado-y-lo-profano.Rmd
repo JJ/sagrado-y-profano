@@ -18,18 +18,22 @@ En este libro, editado en 1956 en alemán por primera vez, Mircea Eliade introdu
 
 * Una introducción, donde habla de la manifestación de "lo sagrado" e introduce una serie de términos relacionados con la misma.
 * Un primer capítulo dedicado al *espacio* sagrado.
-* Un segudo capítulo dedicado al *tiempo* sagrado.
+* Un segundo capítulo dedicado al *tiempo* sagrado.
 * Un tercer capítulo en el que analiza la la experiencia religiosa en la relación con la Naturaleza.
 * Finalmente, un cuarto capítulo donde habla cómo la existencia humana se puede santificar, es decir, formar parte de lo sagrado.
 
 La introducción establece las pautas fundamentales del libro, sentando las bases de lo que se considera "sagrado" en oposición a lo que no tiene ese carácter, llamado en general profano.
 
-> La manifestación de lo sagrado fundamenta ontológicamente el mundo (p. 4)
+> La manifestación de lo sagrado fundamenta ontológicamente el mundo (p. 4)^[Al tratarse de una edición digital, los números de página no se corresponden a los que hay en la edición física]
 
-Esta manifestación de lo sagrado, sentida individualmente como una experiencia de lo mismo, se denomina *hierofanía*, y Eliade afirma que es lo que le proporciona al mundo su entidad, su ser. La experiencia de lo sagrado, por tanto, le da sentido al mundo. En la descripción de esta experiencia menciona *Das Heilige*, de Rudolf Otto [@otto1926das], y cómo analiza el mismo las diferentes fases o "momentos" que puede adoptar esta experiencia religiosa, dentro de una experiencia que se define como *numinosa* e "irracional"; Mircea Eliade toma esa definición y la amplía, hablando de una experiencia *ganz andere* (en alemán, "todo otro"), es decir, totalmente diferente a la experiencia normal de la realidad, definible con palabras, y por lo tanto *inefable*. Se opone, por tanto, a "lo profano", aquello que forma parte de la experiencia sensorial y que por tanto hay palabras para definirlo.
+Esta manifestación de lo sagrado, sentida individualmente como una experiencia de lo mismo, se denomina *hierofanía*, y Eliade afirma que es lo que le proporciona al mundo su entidad, su ser. La experiencia de lo sagrado, por tanto, le da sentido al mundo. En la descripción de esta experiencia menciona *Das Heilige*, de Rudolf Otto [@otto1926das], y cómo analiza el mismo las diferentes fases o "momentos" que puede adoptar esta experiencia religiosa, dentro de una experiencia que se define como *numinosa* e "irracional"; Mircea Eliade toma esa definición y la amplía, hablando de una experiencia *ganz andere* (en alemán, "todo otro"), es decir, totalmente diferente a la experiencia normal de la realidad, definible con palabras, y por lo tanto *inefable*. Se opone, por tanto, a "lo profano", aquello que forma parte de la experiencia sensorial y que por tanto hay palabras para definir.
 
-Sin embargo, se afirma que, aunque no haya palabras para definirlo por ser *sui generis*, algunos aspectos de la experiencia sagrada sí se pueden definir. Retomando los "momentos" de "lo sagrado" de Otto, lo sagrado equivale al poder y por tanto, no sólo a la realidad por antonomasia, sino incluso al origen de la misma.
+Sin embargo, se afirma que, aunque no haya palabras para definirlo por ser *sui generis*, algunos aspectos de la experiencia sagrada sí se pueden definir. Retomando los "momentos" de Otto [@otto1926das], lo sagrado equivale al poder y por tanto, no sólo a la realidad por antonomasia, sino incluso al origen de la misma.
 
-En el primer capítulo comienza a extender este concepto al espacio. En la introducción, el espacio es sagrado si en él se experimentan hierofanías: una colina, la sombra de un árbol, un abrigo de una montaña o una cueva. Sin embargo, en este capítulo Eliade comienza a introducir al hombre como creador de espacios sagrados y por tanto constructor de ambientes que son capaces de proporcionar esa hierofanía o experiencia de lo sagrado.
+En el primer capítulo comienza a extender este concepto al espacio. En la introducción, el espacio es sagrado si en él se experimentan hierofanías: una colina, la sombra de un árbol, un abrigo de una montaña o una cueva. Sin embargo, en este capítulo Eliade comienza a introducir al hombre como creador de espacios sagrados y por tanto constructor de ambientes que son capaces de proporcionar esa hierofanía o experiencia de lo sagrado. Eliade afirma
+
+> *Para vivir en el Mundo* hay que *fundarlo* (p. 18)
+
+El Mundo, como oposición al caos, crea un *punto fijo*, un centro absoluto, en torno al cual se organiza la existencia.
 
 ## Bibliografía
