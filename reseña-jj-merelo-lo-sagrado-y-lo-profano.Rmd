@@ -2,7 +2,9 @@
 title: "Reseña de *Lo sagrado y lo profano* de Mircea Eliade"
 author: "JJ Merelo, `jjmerelo@correo.ugr.es`"
 date: "`r Sys.Date()`"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 bibliography: biblio.bib
 abstract: |
   "Lo sagrado y lo profano" aporta una serie de claves a la interpretación de la obra artística con motivo u origen religioso, pero también a muchas obras arquitectónicas y obras visuales figurativas. La visión del mundo a través de la experiencia humana de lo sagrado permite entender mejor el significado de elementos arquitectónicos, pictóricos y escultóricos desde el inicio de las civilizaciones
@@ -80,7 +82,7 @@ De la misma forma, la cuarta parte sobre la existencia humana, es la más corta 
 
 Esta parte finaliza con lo una descripción de lo sacro y lo profano en el mundo moderno. Eliade dice:
 
-> El hombre moderno que se siente [...] arreligioso dispone aún d etoda una mitología camuflada y numerosos ritualismos degradados. (p. 150)
+> El hombre moderno que se siente [...] arreligioso dispone aún de toda una mitología camuflada y numerosos ritualismos degradados. (p. 150)
 
 El libro termina diciendo:
 
@@ -97,7 +99,9 @@ Por otro lado, el pensamiento de Eliade tiene una íntima relación con otros fi
 El libro, en general, no deja de tener utilidad para interpretar obras artísticas y arquitectónicas; incluso se le ha encontrado una aplicación a estudios cinematográficos [@He2020] para interpretar la arquitectura irreal que aparece en películas de ciencia ficción como Blade Runner. Sobre todo es valioso porque la religión y sus diferentes manifestaciones fueron, hasta prácticamente el siglo XVIII en Occidente, la principal fuente de inspiración para la pintura, escultura y arquitectura. Sobre todo es valioso en el sentido que proporciona metáforas visuales muy potentes para interpretar la obra: el eterno retorno, la hierofanía, el *axis mundi*, son conceptos relativamente sencillos de asimilar y de proyectar en la interpretación de una obra artística. Sin embargo, el problema es que en este libro en particular están rodeados de otro conceptos sin mayor interés, por eso la experiencia de lectura de este libro no puede calificarse como totalmente positiva.
 
 
+## Notas
 
+Los fuentes de este trabajo están en https://github.com/JJ/sagrado-y-profano
 
 
 ## Bibliografía
